@@ -160,7 +160,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/xr3ngine](https://github.com/hamzatrq/xr3ngine)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|216<br/>Tools used|01/02/24 <br/>Report generated|
+|219<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -849,9 +849,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (136)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (139)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (133)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (136)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -967,7 +967,9 @@ Full tech stack [here](/techstack.md)
 |[rollup-plugin-serve](https://www.npmjs.com/rollup-plugin-serve)|v1.1.0|04/13/21|Renovate Bot |MIT|N/A|
 |[rollup-plugin-terser](https://www.npmjs.com/rollup-plugin-terser)|v7.0.2|04/13/21|Renovate Bot |MIT|N/A|
 |[rollup-plugin-typescript2](https://www.npmjs.com/rollup-plugin-typescript2)|v0.30.0|04/16/21|Renovate Bot |MIT|N/A|
+|[rx](https://www.npmjs.com/rx)|v4.1.0|04/02/21|shawticus |Apache-2.0|N/A|
 |[sass-loader](https://www.npmjs.com/sass-loader)|v11.0.1|04/17/21|Renovate Bot |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v17.4.2|04/18/21|shawticus |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[semantic-ui-css](https://www.npmjs.com/semantic-ui-css)|v2.4.1|04/16/21|Kyle Baran |MIT|N/A|
 |[semantic-ui-react](https://www.npmjs.com/semantic-ui-react)|v2.0.3|04/16/21|Kyle Baran |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|v11.3.2|04/10/21|Renovate Bot |MIT|N/A|
@@ -987,6 +989,7 @@ Full tech stack [here](/techstack.md)
 |[url](https://www.npmjs.com/url)|v0.11.0|06/23/20|shawticus |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|04/11/21|Renovate Bot |MIT|N/A|
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.6.0|04/14/21|Renovate Bot |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.3.3|04/10/21|Renovate Bot |MIT|N/A|
 |[xmlhttprequest](https://www.npmjs.com/xmlhttprequest)|v1.8.0|04/12/21|shawticus |MIT|N/A|
 
 
